@@ -1,4 +1,8 @@
 _repo: Memorias-de-un-Hombre-de-Accion-3-Los-Caminos-del-Mundo_49280
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49280-h/images/cover.jpg
 creator:
   author:
     agent_name: Baroja, Pío
@@ -13,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
     - http://es.wikipedia.org/wiki/Pío_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49280#Memorias-de-un-Hombre-de-Accion-3-Los-Caminos-del-Mundo
 gutenberg_issued: '2015-06-25'
 gutenberg_type: Text
 identifiers:
